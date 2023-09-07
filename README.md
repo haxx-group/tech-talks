@@ -1,2 +1,2 @@
-# tech-talks-README.md
+# tech-talks
 Slides and resources related to our tech talks.
